@@ -1,0 +1,24 @@
+2024-Jan-30-19:53:44,Starting ETL from online source
+2024-Jan-30-19:53:44,Starting Extraction
+2024-Jan-30-19:53:59,Extraction Ended
+2024-Jan-30-19:53:59,Starting Tranformation
+2024-Jan-30-19:53:59,Tranformation Ended
+2024-Jan-30-19:53:59,Starting Load to CSV
+2024-Jan-30-19:53:59,Load to CSV Ended
+2024-Jan-30-19:53:59,Starting Load to DB
+2024-Jan-30-19:53:59,Load to DB Ended
+2024-Jan-30-19:53:59,Starting Query
+2024-Jan-30-19:53:59,Query Ended
+2024-Jan-30-19:53:59,ETL process complete
+2024-Jan-30-19:54:48,Starting ETL from online source
+2024-Jan-30-19:54:48,Starting Extraction
+2024-Jan-30-19:54:49,Extraction Ended
+2024-Jan-30-19:54:49,Starting Tranformation
+2024-Jan-30-19:54:49,Tranformation Ended
+2024-Jan-30-19:54:49,Starting Load to CSV
+2024-Jan-30-19:54:49,Load to CSV Ended
+2024-Jan-30-19:54:49,Starting Load to DB
+2024-Jan-30-19:54:49,Load to DB Ended
+2024-Jan-30-19:54:49,Starting Query
+2024-Jan-30-19:54:49,Query Ended
+2024-Jan-30-19:54:49,ETL process complete
